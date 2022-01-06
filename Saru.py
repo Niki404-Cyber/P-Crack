@@ -7,8 +7,8 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from Saru import main
-    main()
+    from Saru import menu
+    menu()
 elif bit == '32bit':
-    from Saru import main
-    main()
+    from Saru import menu
+    menu()
