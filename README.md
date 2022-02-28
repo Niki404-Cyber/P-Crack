@@ -6,22 +6,16 @@
 
 <h1 align="center"> |MR.NIKI|</h1>
 
-
+<h2 align="center"> NEW P-Crack Tools
 
 <h2 align="center"> LOGIN WITH FB ID, TOKEN </h2>
 
-
 <p align="center">
-     NEW P-Crack, PUBLIC AND FLOWERS CRACKING
-</p>
+     PUBLIC AND FLOWERS CRACKING
 
 
 
-<p align="center">
-              Mr.NIKI
-
-
-## <b>installation</b>
+## <b>Installation</b>
 
 ```
 cd
@@ -35,7 +29,7 @@ $ pip2 install mechanize
 $ pkg install git
 $ git clone https://github.com/Niki404-Cyber/P-Crack.git
 $ cd P-Crack
-$ python2 Saru.py
+$ python2 P-Crack
 
 Note: (This Tools Are Free, So You Don't Need Permission To Use NIKI P-Crack Tools Enjoy)
 ```
@@ -43,7 +37,7 @@ Note: (This Tools Are Free, So You Don't Need Permission To Use NIKI P-Crack Too
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pkg install git ; git clone https://github.com/Niki404-Cyber/P-Crack.git ; cd P-Crack ; python Saru.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pkg install git ; git clone https://github.com/Niki404-Cyber/P-Crack.git ; cd P-Crack ; python P-Crack
 ```
  
  Note: (This Tools Are Free, So You Don't Need Permission To Use NIKI x5-UID-PRO Tools Enjoy)</br>
